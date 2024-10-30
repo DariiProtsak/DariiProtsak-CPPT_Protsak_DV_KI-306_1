@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{449032A7-5C23-44A8-B70F-63E13F5291EF}|PythonApplication1.pyproj|D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\water_pistol.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{449032A7-5C23-44A8-B70F-63E13F5291EF}|PythonApplication1.pyproj|solutionrelative:water_pistol.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449032A7-5C23-44A8-B70F-63E13F5291EF}|PythonApplication1.pyproj|D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{449032A7-5C23-44A8-B70F-63E13F5291EF}|PythonApplication1.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449032A7-5C23-44A8-B70F-63E13F5291EF}|PythonApplication1.pyproj|D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\pistol.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{449032A7-5C23-44A8-B70F-63E13F5291EF}|PythonApplication1.pyproj|solutionrelative:pistol.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.py",
+              "DocumentMoniker": "D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-30T09:37:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "water_pistol.py",
+              "DocumentMoniker": "D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\water_pistol.py",
+              "RelativeDocumentMoniker": "water_pistol.py",
+              "ToolTip": "D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\water_pistol.py",
+              "RelativeToolTip": "water_pistol.py",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-30T09:37:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pistol.py",
+              "DocumentMoniker": "D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\pistol.py",
+              "RelativeDocumentMoniker": "pistol.py",
+              "ToolTip": "D:\\LPNU\\3 \u041A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0440\u043E\u0441\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0456 \u0437\u0430\u0441\u043E\u0431\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u04319\\PythonApplication1\\pistol.py",
+              "RelativeToolTip": "pistol.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-30T08:55:49.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
